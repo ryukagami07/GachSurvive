@@ -1,9 +1,9 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "GachSurvive",
+	"short_name": "GachSurvive",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "portrait",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
